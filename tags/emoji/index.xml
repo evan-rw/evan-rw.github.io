@@ -1,0 +1,15 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>emoji on evan-rw</title>
+		<link>https://evan-rw.github.io/tags/emoji/</link>
+		<description>Recent content in emoji </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+		<managingEditor>Page(/tags/emoji) (Evan Williams)</managingEditor>
+    	
+  		<lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/emoji/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>

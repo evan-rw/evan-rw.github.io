@@ -1,0 +1,15 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>text on evan-rw</title>
+		<link>https://evan-rw.github.io/tags/text/</link>
+		<description>Recent content in text </description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+		<managingEditor>Page(/tags/text) (Evan Williams)</managingEditor>
+    	
+  		<lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate>
+		
+		<atom:link href="/tags/text/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>
